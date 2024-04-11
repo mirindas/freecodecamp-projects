@@ -1,0 +1,12 @@
+#root{
+  background-color: #242424;
+}
+#quote-box {  
+  background-color: #549664;
+}
+
+.btn-b {
+  background-color: #cf601f !important;
+  color: white !important;
+  border: 1px solid #242424 !important;
+}
