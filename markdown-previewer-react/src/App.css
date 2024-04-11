@@ -1,0 +1,34 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  /* text-align: center; */
+}
+
+img{
+  width: 250px;
+}
+
+textarea {
+  width: 100%;
+  height: 400px;
+  resize: auto !important;
+  max-height: 1500px;
+  max-width: 800px;
+}
+
+code {
+  background-color: rgb(141, 141, 141);
+}
+
+pre {
+  background-color: rgb(141, 141, 141);
+  display: block;
+  line-height: 1.3;
+  padding: 1rem;
+}
+
+blockquote {
+  border-left: 2px solid white;
+  padding-left: 8px;
+}
